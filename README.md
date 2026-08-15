@@ -210,7 +210,7 @@ a visual representation of sequence similarity.
 
 ### Main Python concepts
 
-- Functionc
+- Functions
 - Loops and conditionals
 - Strings
 - List and dictionaries
