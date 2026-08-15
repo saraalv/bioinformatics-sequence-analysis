@@ -168,7 +168,7 @@ the nucleotide changes observed between sequences.
 
 ---
 
-Phylogenetic analysis
+### Phylogenetic analysis
 
 The project includes basic phylogenetic analysis using a tree stored
 in Newick format.
@@ -186,7 +186,7 @@ relationships between biological sequences.
 
 ---
 
-Pairwise sequence alignment 
+### Pairwise sequence alignment 
 
 Pairwise alignment is performed using Biopython's
 `PairwiseAligner`.
