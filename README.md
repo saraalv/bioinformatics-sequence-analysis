@@ -227,21 +227,20 @@ a visual representation of sequence similarity.
 bioinformatics-sequence-analysis/
 │
 ├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   ├── multipleSeqs.fa
-│   └── arbol.dnd
 │
 ├── src/
 │   ├── fasta_analysis.py
 │   ├── sequence_analysis.py
-│   ├── phylogenetics.py
+│   ├── motifs.py
 │   └── alignment.py
 │
-├── results/
-│   └── fasta_resumen.tsv
+├── figures/
+│   └── composicion_bases_AM711902-1.png
+│   └── composicion_bases_NC_001802-1.png
+│   └── composicion_bases_NC_019843-3.png
+│   └── composicion_bases_NC_024512-1.png
+│   └── composicion_bases_NT_004356-4.png
+│   └── composicion_bases_NT_033779-5.png
 │
 └── notebooks/
     └── sequence_analysis.ipynb
