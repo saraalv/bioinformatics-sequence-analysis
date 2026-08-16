@@ -234,7 +234,7 @@ bioinformatics-sequence-analysis/
 │   ├── motifs.py
 │   └── alignment.py
 │
-├── figures/
+├── images/
 │   └── composicion_bases_AM711902-1.png
 │   └── composicion_bases_NC_001802-1.png
 │   └── composicion_bases_NC_019843-3.png
