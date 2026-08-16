@@ -241,6 +241,8 @@ bioinformatics-sequence-analysis/
 │   └── composicion_bases_NC_024512-1.png
 │   └── composicion_bases_NT_004356-4.png
 │   └── composicion_bases_NT_033779-5.png
+│   └── filogenia.png
+│   └── alineamiento.png
 │
 └── notebooks/
     └── sequence_analysis.ipynb
